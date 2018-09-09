@@ -1426,6 +1426,45 @@ body {
 .cid-r33wSOLzCu .card-title {
   text-align: center;
 }
+.cid-r38wIqaOWi {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #0f7699;
+}
+.cid-r38wIqaOWi .card-img {
+  background-color: #fff;
+}
+.cid-r38wIqaOWi .card-box {
+  background-color: #b1d9e7;
+  padding: 2rem;
+}
+.cid-r38wIqaOWi h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-r38wIqaOWi p {
+  text-align: left;
+}
+.cid-r38wIqaOWi .mbr-text {
+  color: #cc2952;
+}
+.cid-r38wIqaOWi .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-r38wIqaOWi .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-r38wIqaOWi .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
 .cid-r33EajkrWV {
   padding-top: 0px;
   padding-bottom: 0px;
